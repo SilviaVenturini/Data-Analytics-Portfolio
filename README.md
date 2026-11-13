@@ -1,8 +1,9 @@
 # 📁 Data Analytics Portfolio - Silvia Venturini
 Welcome to my Data Analytics Portfolio! 👋
-This repository collects the projects I have developed throughout my career in Data Analytics, organized by topic and area of expertise.
 
-Each section links to individual projects hosted in dedicated repositories, including analysis, code, visualizations, and documentation.
+This repository showcases projects developed in the field of Data Analytics, organized by topic and area of expertise.
+
+Each section links to individual projects hosted in dedicated repositories, including data analysis, code, visualizations, and documentation.
 
 ## 🔢 0. Excel
 Data analysis in Excel, inferential statistics.
